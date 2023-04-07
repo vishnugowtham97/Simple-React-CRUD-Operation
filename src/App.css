@@ -1,0 +1,70 @@
+* {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: silver;
+}
+
+.content-form {
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.curd-page {
+  width: 100%;
+}
+
+.curd-name {
+  width: 100%;
+  box-sizing: border-box;
+  margin-right: 0px;
+}
+
+.curd-age {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.logo-image-banner {
+  height: 100px;
+  margin-top: 0px;
+}
+
+.img-tag-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+}
+
+.heading-tag {
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.name {
+  height: 38px;
+}
+
+.btn-primary {
+  width: 20%;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.edit {
+  margin-right: 10px;
+}
